@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-Screenshot.png
+https://github.com/dzenitaa96/Product-Preview-Page/blob/6d16ae7a7a78ac9ccc3f433b8521a3ed65412e6a/Screenshot.png
 
 ## My process
 
