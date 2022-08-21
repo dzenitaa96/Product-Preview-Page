@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-Product preview card\Screenshot.png
+Screenshot.png
 
 ## My process
 
